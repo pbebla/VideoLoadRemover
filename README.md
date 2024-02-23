@@ -28,6 +28,7 @@ After noting down PSNR value of the load frame, determine a threshold value. The
 6. Start the Load Remover.
 Before starting the Livesplit timer, click "Start" on the load remover to begin.
 
+7. Save settings. File->Save As or Save. Then when you relaunch the load remover, you can load the settings with File->Open. This will populate the region parameters, threshold value, reference image, and if present, the window capture.
 
 
 
